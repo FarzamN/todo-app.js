@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&display=swap');
+*{
+    color: #fff;
+    outline: none;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #000;
+}
+.main-border{
+    background-color: #c20450;
+    width: 70%;
+    margin: 15px auto;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 13px 0;
+}
+.first-div{
+    width: 19%;
+}
+.sec-div{
+    width: 60%;
+}
+.third-div{
+    width: 19%;
+}
+.text-center{
+    text-align: center!important;
+}
+.main-border .Log{
+    font-size: 1.6rem;
+}
+.no-move-body{
+    background-color: #c20450;
+    width: 35%;
+    margin: 25px auto;
+    border-radius: 13px;
+    padding: 13px 0;
+}
+input{
+    background-color: #000;
+    border: none;
+    padding: 8px 35px;
+    border-radius: 5px;
+    margin-top: 1rem;
+    margin-left: 4.5rem;
+}
+.ml{
+    margin-left: 1.5rem;
+}
+button{
+    font-size: 0.8rem;
+    background-color: #000;
+    border: none;
+    padding: 7px 6px;
+    position: relative;
+    top: -1px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+.your-idea{
+    font-size: 1.3rem;
+}
+.nothing{
+    background-color: #c20450;
+    width: 35%;
+    margin: 25px auto;
+    border-radius: 13px;
+    font-size: 1.3rem;
+}
+.todo-value{
+    margin: 0.7rem 0; 
+    padding: 1.3rem 2rem; 
+    background-color: #ffc0cb;
+    color: #000;
+}
+.new-nothing{
+    background-color: #ffc0cb;
+    padding: 3rem;
+    margin: 1rem 0;
+}
+.nothing-is-here{
+padding: 15px 0;   
+}
+.trachCane{
+    float: right;
+}
+.color{color: #dc3545;cursor: pointer;}
